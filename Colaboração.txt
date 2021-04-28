@@ -1,0 +1,7 @@
+Colaboração de Giovani Marciniak- Referência
+
+Script tem por objetivo dado uma imagem e seu respectivo JSON com a rotulação de packs, apresentar imagens com todos os cortes desses packs.
+
+Ele pega a label do json definido como espécie do coral rotulado cria a pasta e coloca o "corte" nela.
+
+Procura nos diretório onde estão as fotos e os json delas ("Corais")
